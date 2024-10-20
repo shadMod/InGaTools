@@ -1,6 +1,20 @@
 # InGaTools
 Information Gathering Tools
 
+    --------------------------------------------------
+                #    #   ####    #####      
+                #    #  #    #  #
+                ######  #    #  #
+                #    #  #    #  #
+                #    #  #    #  #
+                #    #   ####    #####
+
+        Version: 2.0
+        By Shadmod - info@shadmod.it
+        Thanks Team Hackersonlineclub
+        Website : https://hackersonlineclub.com
+    --------------------------------------------------
+
 Disclaimer:
 
 InGa is used only for educational or purely cognitive purposes.
