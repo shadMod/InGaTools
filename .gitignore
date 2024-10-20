@@ -86,8 +86,10 @@ venv.bak/
 # PyCharm data
 *.idea
 
-# poetry
+# Poetry files and folders
 poetry.lock
+artifacts
+cache
 
 # mypy
 .mypy_cache/
